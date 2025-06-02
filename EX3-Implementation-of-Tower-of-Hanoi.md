@@ -23,8 +23,8 @@ To write a C program to implement Tower of Hanoi
 ```
 /*
 Program to implement Tower of Hanoi
-Developed by: 
-RegisterNumber:  
+Developed by: MAHASRI P
+RegisterNumber:  212223100029
 */
 
 #include<stdio.h> 
